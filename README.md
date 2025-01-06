@@ -1,5 +1,7 @@
 # Countdown Timer
 
+[Live Preview](https://countdown-timer-zeta-silk.vercel.app/)
+
 A React application that displays a countdown timer with the following features:
 
 <ul>
@@ -8,4 +10,4 @@ A React application that displays a countdown timer with the following features:
     <li>Reset timer</li>
 </ul>
 
-<img src="./assets/timer.png">
+<img src = "./src/assets/timer.png">
